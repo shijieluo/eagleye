@@ -1,0 +1,3 @@
+[submodule "third_party/chinese-xinhua"]
+	path = third_party/chinese-xinhua
+	url = git@github.com:shijieluo/chinese-xinhua.git
